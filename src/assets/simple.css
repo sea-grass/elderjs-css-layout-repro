@@ -1,0 +1,7 @@
+h1 {
+  color: blue;
+}
+
+h1:before {
+  content: 'simple loaded';
+}
